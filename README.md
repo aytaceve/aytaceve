@@ -6,7 +6,7 @@ Software engineer
 
 ### Check my Portfolio:
 
-### · ToonCam · AI photo & comic app
+### · ToonCam - AI photo & comic app / React Native, .NET
 
 AI App that turns your photos into 50+ different styles and you can generate comics based on the story line and character you choose.
 **[Download on the App Store](https://apps.apple.com/az/app/tooncam-ai-cartoon-maker/id6756739491)**
@@ -17,14 +17,14 @@ Created a new base for the Airport Kiosk software that has a clean code and work
 *Quavis, Ankara.*
 **[Quavis Linkedin](https://www.linkedin.com/company/quavis-qualified-aviation-solutions)**
 
-### · Medicabil - Hospital patient app
+### · Medicabil - Hospital patient app / React Native
 
 Patient app for a private hospital in Turkey. Built it with React Native and shipped to the App Store and Google Play.
 *Irshi*
 **[Medicabil App](https://apps.apple.com/az/app/medicabil/id1383657293)**
 
 
-### · HopHop - Spring Boot REST API
+### · HopHop / Java, Spring Boot
 
 App is for the people who enjoys the real world interactive quest games. Where people find the answer of the questions based on their knowledge and cues in their surroundings. Making it with Java/Spring Boot
 
