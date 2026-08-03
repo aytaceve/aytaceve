@@ -4,7 +4,7 @@ Software engineer
 
 `C# / .NET` `Java / Spring Boot` `React Native` `React` `Python` `PostgreSQL` `Docker`
 
-** Check my Portfolio:
+### Check my Portfolio:
 
 ### · ToonCam · AI photo & comic app
 
