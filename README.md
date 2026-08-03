@@ -8,7 +8,7 @@ Check my Portfolio:
 
 ### · ToonCam · AI photo & comic app
 
-AI App that turns your photos into 50+ different styles and You can genearte comics based on the story line and character you choose.
+AI App that turns your photos into 50+ different styles and you can generate comics based on the story line and character you choose.
 
 **[Download on the App Store](https://apps.apple.com/az/app/tooncam-ai-cartoon-maker/id6756739491)**
 
