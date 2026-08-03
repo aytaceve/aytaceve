@@ -37,4 +37,4 @@ You can check the repository below
 
 **Current Interests:** deepening Java and Spring Boot, Algorithm chalanges in Leetcode, write blogs in **[Medium](https://aytaceve.medium.com/)**, 
 
-📫 aytacaliyeva133@gmail.com · [LinkedIn](https://linkedin.com/in/aytaceve)
+aytacaliyeva133@gmail.com · [LinkedIn](https://linkedin.com/in/aytaceve)
