@@ -10,7 +10,7 @@ Check my Portfolio:
 
 React Native frontend, C#/.NET backend. 50+ styles, HD rendering, multi-language support, subscription handling and App Store review.
 
-**[Download on the App Store →](https://apps.apple.com/app/id1234567890)**
+**[Download on the App Store →](https://apps.apple.com/az/app/tooncam-ai-cartoon-maker/id6756739491)**
 
 ### Airport self-service kiosks · C# .NET
 
