@@ -1,40 +1,64 @@
 ## Hi, I'm Aytaj
 
 Software engineer, 3+ years building production systems end to end.
-Based in Baku (GMT+4), open to relocation.
+Baku, GMT+4 · Open to relocation
 
-**Backend:** C# (.NET, ASP.NET Core, WPF), Java (Spring Boot), Python (Django, FastAPI, Flask), PHP (Laravel)
-**Frontend:** React, React Native, Vue.js, TypeScript
-**Data:** PostgreSQL, MySQL, MongoDB, Redis
-**Infra:** Docker, Linux, nginx, RabbitMQ, Git
+`C# / .NET` `Java / Spring Boot` `React Native` `React` `Python` `PostgreSQL` `Docker`
 
-### What I've built
+---
 
-**ToonCam** — AI photo and comic app, live on the App Store
+### ToonCam · AI photo & comic app
+
+Live on the App Store. Built, shipped and marketed solo.
+
 React Native frontend, C#/.NET backend. 50+ styles, HD rendering,
-multi-language support. Built, shipped and marketed solo, including
-App Store review and subscription setup.
-[App Store]() · [more]()
+multi-language support, subscription handling and App Store review.
 
-**Airport self-service kiosks** — C# .NET (Web & WPF)
-Built the baseline application from scratch to automate check-in and
-bag drop, integrating passport readers, barcode scanners, conveyor
-belt controllers, scales and printers. Contributed to a React admin
-panel for airline clients. (Client work, code not public.)
+**[Download on the App Store →]()**
 
-**Medicabil** — hospital patient app, iOS and Android
-Built end to end in React Native and shipped to both stores.
-(Client work, code not public.)
+<!-- add 2-3 screenshots here, side by side -->
 
-**HopHop** — Spring Boot REST API for a mobile quest game
-[add: auth approach, main endpoints, database]
+---
 
-**Sellshop** — Django e-commerce
+### Airport self-service kiosks · C# .NET
+
+Built the baseline Web and WPF application from scratch to automate
+check-in and bag drop.
+
+Integrated passport readers, barcode scanners, conveyor belt
+controllers, scales and printers. Also contributed to a React admin
+panel for airline clients.
+
+*Client work at Quavis, Ankara. Code not public.*
+
+---
+
+### Medicabil · Hospital patient app
+
+Patient app for a private hospital, built end to end in React Native
+and shipped to the App Store and Google Play.
+
+*Client work at Irshi. Code not public.*
+
+---
+
+### HopHop · Spring Boot REST API
+
+REST API for a mobile quest game. [Fill this in: what the endpoints do,
+how auth works, which database.]
+
+*Private repo.*
+
+---
+
+### 🛒 Sellshop · Django e-commerce
+
 Social auth, model translation, REST API. Django, PostgreSQL, Celery.
-[repo]()
 
-### Currently
+**[Repository →]()**
 
-Deepening Java and Spring Boot. Daily algorithm practice in Java.
+---
+
+**Currently:** deepening Java and Spring Boot, daily algorithm practice in Java.
 
 📫 aytacaliyeva133@gmail.com · [LinkedIn](https://linkedin.com/in/aytaceve)
